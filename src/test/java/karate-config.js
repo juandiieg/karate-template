@@ -6,7 +6,7 @@ function fn() {
   }
   var config = {
     env: env,
-    myVarName: 'someValue'
+    apiReqres: 'https://reqres.in/api/users?page=2',
   }
   if (env == 'dev') {
     // customize

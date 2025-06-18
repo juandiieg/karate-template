@@ -1,0 +1,4 @@
+{
+  "Content-Type": "application/json",
+  "x-api-key": "#(karate.properties['X_API_KEY'])"
+}
